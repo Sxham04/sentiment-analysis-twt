@@ -1,5 +1,7 @@
 # Twitter Sentiment Analysis Machine Learning Project
 
+[Kaggle Notebook Solution](https://www.kaggle.com/code/sxham04/sent-analysis-main)
+
 This repository contains a complete end-to-end Machine Learning pipeline for sentiment analysis using the **Twitter Entity Sentiment Analysis** dataset. The project compares multiple classical ML algorithms to classify tweets into four sentiment categories.
 
 ##  Project Overview
@@ -52,7 +54,7 @@ The models were evaluated on the validation set with the following accuracy resu
 
 1. **Clone the repo:**
 ```bash
-git clone https://github.com/your-username/twitter-sentiment-analysis.git
+git clone https://github.com/Sxham04/sentiment-analysis-twt
 
 ```
 
